@@ -47,16 +47,16 @@ string showArray(string arr[], int size) {
 int main(int argc, char const *argv[])
 {
     string arr_txt[10] = {
-        "fsx",
-        "gkx",
-        "pop",
-        "uix",
-        "aix",
-        "abf",
-        "ace",
-        "bea",
-        "bae",
-        "bcd"
+        "intel",
+        "amd",
+        "nvida",
+        "geforce",
+        "inside",
+        "asus",
+        "acer",
+        "lenovo",
+        "atheros",
+        "logitech"
     };
     cout << showArray(arr_txt, 10) << endl;
     txt_sort(arr_txt, 10);

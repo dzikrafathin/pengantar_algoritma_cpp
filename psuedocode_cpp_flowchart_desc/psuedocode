@@ -1,0 +1,15 @@
+begin
+declare pilih, alas_segitiga, tinggi_segitiga, tinggi_limas, hasil;
+input pilih;
+if pilih equal to 1 then
+    input alas_segitiga;
+    input tinggi_segitiga;
+    hasil = (alas_segitiga * tinggi_segitiga)/2;
+    print hasil;
+else
+    input alas_segitiga;
+    input tinggi_segitiga;
+    input tinggi_limas;
+    hasil = (alas_segitiga * tinggi_segitiga * tinggi_limas)/6;
+    print hasil;
+end

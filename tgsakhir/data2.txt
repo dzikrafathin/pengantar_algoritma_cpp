@@ -1,0 +1,7 @@
+AP|MikroTik|wAP|4|600000
+AP|Ubiquiti|AP AC-PRO|5|1250000
+Router|Juniper|SSG-5|9|2400000
+Router|Cisco|1941|2|2000000
+Router|MikroTik|RB2011|4|1430000
+Switch|Cisco|2950|4|2100000
+Switch|Cisco|2960|2|15000000

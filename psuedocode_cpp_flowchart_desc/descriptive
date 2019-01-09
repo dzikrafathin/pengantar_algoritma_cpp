@@ -1,0 +1,25 @@
+1.	Mulai
+2.	Deklarasi pilih, alas_segitiga, tinggi_segitiga, tinggi_limas, hasil
+3.	Tampilkan judul program aplikasi penghitung luas segitiga dan volume limas segitiga
+4. 	Tampilkan pembuat aplikasi
+5.	Tampilkan perintah tertulis pada user untuk menginput "ketikan 1 untuk segitiga, 2 untuk limas"
+6.	Input pilih
+7.	Jika pilih = 1 Maka:
+		1.	Tampilkan judul "menghitung luas segitiga"
+		2.	Tampilkan perintah tertulis "masukan nilai alas segitiga"
+		3.	Input alas_segitiga
+		4.	Tampilkan perintah tertulis "masukan nilai tinggi segitiga"
+		5.	Input tinggi_segitiga
+		6. 	hasil = (alas_segitiga * tinggi_segitiga)/2
+		7.	Cetak hasil
+8.	Jika selain dari 1 Maka:
+		1.	Tampilkan judul "menghitung volume limas segitiga"
+		2.	Tampilkan perintah tertulis "masukin nilai alas segitiga"
+		3.	Input alas_segitiga
+		4.	Tampilkan perintah tertulis "masukan nilai tinggi segitiga"
+		5.	Input tinggi_segitiga
+		6.	Tampilkan perintah tertulis "masukan tinggi limas"
+		7.	Input tinggi_limas
+		8.	hasil = (alas_segitiga * tinggi_segitiga * tinggi_limas)/6
+		9.	Cetak hasil
+9.	Selesai

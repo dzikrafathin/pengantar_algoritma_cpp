@@ -25,7 +25,7 @@ string showArray(int arr[], int size) {
     return res;
 }
 
-int main(int argc, char const *argv[])
+int main()
 {
    int A[10] = {9,6,4,7,5,2,11,10,1,13};
    cout << showArray(A, 10) << endl;
